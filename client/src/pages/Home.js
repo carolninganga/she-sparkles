@@ -23,11 +23,11 @@ class Home extends Component {
                             <img sytle={{width:"600"}} src="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Ftanya-removebg.png?v=1603922149448" />
                         </div>
                         <div className="discription">
-                            <h2> Our mission</h2>
+                            <h2> Mission Statement</h2>
                             <p className="mission">
-                            Contribute to national development through constructive and supportive
-                            engagement with communities to enable children enjoy life and develop social
-                            skills.
+                            She Sparkles is all about encouraging women from all walks of life to realize how 
+                            God has destined them to sparkle. It is about reminding woman that  is a very special 
+                            part of the character and nature of God.
                             </p>
                             {/* <h2> Our Vision</h2>
                             <p className="mission">

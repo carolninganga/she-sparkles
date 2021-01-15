@@ -1,5 +1,5 @@
 h2 {
-    color:  rgb(168, 29, 186);
+    color:  rgb(192, 46, 143);
     font-weight: bold;
 }
 
@@ -15,7 +15,8 @@ h2 {
     height: auto;
     max-width: 800px;
     border-radius: 1rem;
-    margin-left: 30%;
+    /* margin-left: 30px; */
+    align-items: center !important;
   }
 
 .discription {
@@ -35,12 +36,12 @@ h2 {
 }
 
 .mission {
-    color:  rgb(149, 29, 186);
+    color:  rgb(192, 46, 143);
     font-size: 16px;
 }
 
 .listItem {
-    color:  rgb(29, 157, 186);
+    color:  rgb(192, 46, 143);
     font-size: 16px;
 }
 
