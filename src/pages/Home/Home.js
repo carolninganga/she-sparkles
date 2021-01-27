@@ -19,8 +19,8 @@ class Home extends Component {
                   
                         <div className="banner-text">
                           <div id="table">
-                         <h3 className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, I'm Phoebe</h3> 
-                         <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">Aspiring CPA | Web Developer</h5><br/>
+                         <h3 className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, Tanyada Kaponda</h3> 
+                         <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">I am an author | Wife | Mother</h5><br/>
                           </div>
                           <button type="button" id="resume" className="white-text btn waves-effect waves-light"><a target='_blank' rel="noopener noreferrer" href="https://cdn.glitch.com/e7ec1ecc-8235-4381-8966-9202576ad0f6%2FResume_Phoebe%20Yaheng%20Wu.pdf?v=1600722738223" download className="white-text">View My Resume</a></button> 
                       

@@ -16,14 +16,14 @@ class Navbar extends Component {
                 <div className="navbar-fixed">
                     <nav className="nav-wrapper #000000 black">
                         <div className="container">
-                            <a href="/" className="brand-logo" id="logo">Phoebe Yaheng Wu</a>
+                            <a href="/" className="brand-logo" id="logo">She Sparkles</a>
                             <a href="/" className="sidenav-trigger" data-target="mobile-links">
                                 <i className="material-icons">menu</i>
                             </a>
                             <ul className="right hide-on-med-and-down">
                                 <li className="myNav"><Link to="/">Home</Link></li>
                                 <li className="myNav"><Link to="/updates">Updates</Link></li>
-                                <li className="myNav"><Link to="/resume">Resume</Link></li> 
+                                {/* <li className="myNav"><Link to="/resume">Resume</Link></li>  */}
                                 <li className="myNav"><Link to="/blog">Blog</Link></li> 
                             </ul>
                         </div>
