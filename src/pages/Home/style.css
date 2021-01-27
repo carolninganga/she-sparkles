@@ -28,48 +28,48 @@
     color: white;     
   }
   #github:hover {
-    background-color: #ffb74d;
+    background-color: #b84dff;
   }
   #facebook {
     background: #3B5998;
     color: white;
   }
   #facebook:hover {
-    background-color: #ffb74d;
+    background-color: #ff4dff;
   }
   #twitter {
     background: #55ACEE;
     color: white;
   }
   #twitter:hover {
-    background-color: #ffb74d;
+    background-color: #af4dff;
   }
   #linkedin {
     background: #007bb5;
     color: white;
   }
   #linkedin:hover {
-    background-color: #ffb74d;
+    background-color: #db4dff;
   }
   #youtube {
     background: #bb0000;
     color: white;
   }
   #youtube:hover {
-    background-color: #ffb74d;
+    background-color: #d54dff;
   }
   #instagram {
     background: #e1306c;
     color: white;
   }
   #instagram:hover {
-    background-color: #ffb74d;
+    background-color: #f04dff;
   }
 
 
 /* banner text */
   .banner-text {
-    border-left: 5px solid #ffb74d;
+    border-left: 5px solid #d54dff;
     padding: 15px 15px;
     color: #ffffff;
     margin-top: 100px;

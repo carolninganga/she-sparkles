@@ -19,10 +19,10 @@ class Home extends Component {
                   
                         <div className="banner-text">
                           <div id="table">
-                         <h3 className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, Tanyada Kaponda</h3> 
-                         <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">I am an author | Wife | Mother</h5><br/>
+                         <h3 className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, Welcome to She Sparkles</h3> 
+                         <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">Motivate | Inspire | Transform</h5><br/>
                           </div>
-                          <button type="button" id="resume" className="white-text btn waves-effect waves-light"><a target='_blank' rel="noopener noreferrer" href="https://cdn.glitch.com/e7ec1ecc-8235-4381-8966-9202576ad0f6%2FResume_Phoebe%20Yaheng%20Wu.pdf?v=1600722738223" download className="white-text">View My Resume</a></button> 
+                          <button type="button" id="resume" className="white-text btn waves-effect waves-light"><a target='_blank' rel="noopener noreferrer" href="https://cdn.glitch.com/e7ec1ecc-8235-4381-8966-9202576ad0f6%2FResume_Phoebe%20Yaheng%20Wu.pdf?v=1600722738223" download className="white-text">Our Mission</a></button> 
                       
                     </div> 
                 </div>
@@ -73,7 +73,7 @@ class Home extends Component {
    
  
       <div className="footer">
-        <p>© 2020 Phoebe Yaheng Wu</p>
+        <p>© 2020 Tanyada Kaponda</p>
       </div>
 
             </div>
