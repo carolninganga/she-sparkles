@@ -11,7 +11,7 @@ class Home extends Component {
             <div>
             <Navbar />
             <Hero
-              backgroundImage="https://i.imgur.com/qkdpN.jpg">
+              backgroundImage="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FWhatsApp%20Image%202021-02-04%20at%201.48.20%20PM.jpeg?v=1612479259740">
             </Hero>
             {/* <Landing />  */}
 
@@ -35,10 +35,7 @@ class Home extends Component {
             <div className="icon-bar">
            
             
-                 <a target='_blank' rel="noopener noreferrer" href="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-02-04%20at%2012.39.40%20PM.png?v=1612460404058" id="linkedin" className="waves-effect waves-light" type="button" role="button">
-                  </a>
-
-              
+                 
                   {/* <a target='_blank' rel="noopener noreferrer" href="https://github.com/PhoebeYahengWu" id="github" className="waves-effect waves-light" type="button" role="button">
                     <i className="fab fa-github"></i>
                   </a> */}
