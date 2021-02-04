@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from '../../components/Navbar/Navbar';
-import Landing from '../../components/Landing/Landing';
+import Hero from '../../components/Hero/Hero'
+// import Landing from '../../components/Landing/Landing';
 import 'animate.css';
 import './style.css';
 
@@ -9,7 +10,10 @@ class Home extends Component {
         return (
             <div>
             <Navbar />
-            <Landing /> 
+            <Hero
+              backgroundImage="https://i.imgur.com/qkdpN.jpg">
+            </Hero>
+            {/* <Landing />  */}
 
             <div className="container">
                 
