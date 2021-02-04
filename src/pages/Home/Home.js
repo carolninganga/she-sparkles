@@ -17,12 +17,12 @@ class Home extends Component {
                     <div className="col-md-12"> 
                       
                   
-                        <div className="banner-text">
+                        <div className="banner-text"> 
                           <div id="table">
                          <h3 className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, Welcome to She Sparkles</h3> 
                          <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">Motivate | Inspire | Transform</h5><br/>
                           </div>
-                          <button type="button" id="resume" className="white-text btn waves-effect waves-light"><a target='_blank' rel="noopener noreferrer" href="https://cdn.glitch.com/e7ec1ecc-8235-4381-8966-9202576ad0f6%2FResume_Phoebe%20Yaheng%20Wu.pdf?v=1600722738223" download className="white-text">Our Mission</a></button> 
+                          <button type="button" id="resume" className="white-text btn purple lighten-2 waves-light"><a target='_blank' rel="noopener noreferrer" download className="white-text">Our Mission</a></button> 
                       
                     </div> 
                 </div>
@@ -31,16 +31,15 @@ class Home extends Component {
             <div className="icon-bar">
            
             
-                 <a target='_blank' rel="noopener noreferrer" href="https://www.linkedin.com/in/yahengwu/" id="linkedin" className="waves-effect waves-light" type="button" role="button">
-                    <i className="fab fa-linkedin-in"> </i>
+                 <a target='_blank' rel="noopener noreferrer" href="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-02-04%20at%2012.39.40%20PM.png?v=1612460404058" id="linkedin" className="waves-effect waves-light" type="button" role="button">
                   </a>
 
               
-                  <a target='_blank' rel="noopener noreferrer" href="https://github.com/PhoebeYahengWu" id="github" className="waves-effect waves-light" type="button" role="button">
+                  {/* <a target='_blank' rel="noopener noreferrer" href="https://github.com/PhoebeYahengWu" id="github" className="waves-effect waves-light" type="button" role="button">
                     <i className="fab fa-github"></i>
-                  </a>
+                  </a> */}
               
-
+                  
 
                   <a target='_blank' rel="noopener noreferrer" href="https://twitter.com/YahengWu" id="twitter" className="waves-effect waves-light" type="button" role="button">
                     <i className="fab fa-twitter"> </i>
@@ -73,7 +72,7 @@ class Home extends Component {
    
  
       <div className="footer">
-        <p>© 2020 Tanyada Kaponda</p>
+        <p>© 2020 Tanya Kaponda</p>
       </div>
 
             </div>
