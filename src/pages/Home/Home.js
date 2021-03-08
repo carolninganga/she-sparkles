@@ -13,8 +13,6 @@ class Home extends Component {
             <Hero
               backgroundImage="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FWhatsApp%20Image%202021-03-07%20at%206.13.46%20PM.jpeg?v=1615158926348">
             </Hero>
-            {/* <Landing />  */}
-
             <div className="container">
                 
                 <div className="row">
@@ -23,10 +21,9 @@ class Home extends Component {
                   
                         <div className="banner-text"> 
                           <div id="table">
-                         <h3 id="welcome" className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, Welcome to She Sparkles</h3> 
-                          </div>
+12                          </div>
                           <button type="button" id="resume" className="white-text btn purple lighten-2 waves-light"><a target='_blank' rel="noopener noreferrer" download className="white-text">Our Mission</a></button> 
-                         <p id="mission" className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">To inspire, transform and motivate young women around the world with the gospel of God.</p><br/>
+                         <p id="mission" className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">To inspire, transform and motivate young women around <br/> the world with the gospel of God.</p>
 
                     </div> 
                 </div>
