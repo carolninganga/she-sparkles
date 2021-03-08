@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from '../../components/Navbar/Navbar';
 import Project from '../../components/Project/Project';
+import './style.css';
 
 class Updates extends Component {
     render() {
