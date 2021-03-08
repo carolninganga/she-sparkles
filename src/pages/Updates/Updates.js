@@ -13,25 +13,25 @@ class Updates extends Component {
             <div class="row pb-0 mb-0">
 
                <Project 
-                img="https://cdn.glitch.com/0cc91850-cd5e-4827-a102-0ddee1243509%2Fpolice.jpeg?v=1600473203128"
-                name="Tanyada Ning'ang'a Kaponda"
-                description="Founder and author of She Sparkles"
+                img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%208.36.13%20PM.png?v=1615167400374"
+                name="Tanyada Kaponda"
+                description="Founder | Author"
                 github="https://github.com/PhoebeYahengWu/arrest-data-visualization"
                 site="https://visualization-on-nyc-arrest-data.netlify.app/" 
                 />
 
                 <Project 
-                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F2.webp?v=1595652963132"
-                name="Beamifi App"
-                description="Log in and enter into a chat room with friends"
+                img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%208.29.54%20PM.png?v=1615167037212"
+                name="Ekari Makunganya"
+                description="WARI Designer"
                 github="https://github.com/PhoebeYahengWu/beamifi-chat-app"
                 site="https://beamifi-app.herokuapp.com/login" 
                 />
 
                 <Project 
                 img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F1.webp?v=1595728173670"
-                name="Foodie App"
-                description="Fetch data from yelp API and save to MongoDB" 
+                name="Helga Ning'ang'a"
+                description="Founder Grace Givers" 
                 github="https://github.com/PhoebeYahengWu/foodie"
                 site="https://polar-castle-87426.herokuapp.com/" 
                 />
