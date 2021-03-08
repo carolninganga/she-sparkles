@@ -34,7 +34,6 @@ class Navbar extends Component {
                         <li><Link to="/updates">Profiles</Link></li>
                         {/* <li><Link to="/resume">Resume</Link></li>  */}
                         {/* <li><Link to="/blog">Blog</Link></li>  */}
-                    
                     </ul>
             </div>
 

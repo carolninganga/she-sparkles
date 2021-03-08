@@ -16,7 +16,7 @@ class Updates extends Component {
                 img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%208.47.13%20PM.png?v=1615168061891"
                 name="Tanya Kaponda"
                 description="Founder | Author"
-                github="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Ftanyas%20profile.pdf?v=1615174407538"
+                github="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Ftanya.pdf?v=1615221764272"
                 />
 
                 <Project 
@@ -61,9 +61,6 @@ class Updates extends Component {
 
 
                 </div>
-
-                 
-
 
                 </div>
             </>
