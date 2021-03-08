@@ -7,7 +7,7 @@ function Project(props) {
             <div className="col-md-4 justify-content-center">
                 <div className="card shadow">
                     <div className={styles.inner}>
-                        <img src={props.img} className="card-img-top" alt="project"/>
+                        <img src={props.img} id="proImage" className="card-img-top" alt="project"/>
                     </div>
                     
                     <div className="card-body text-center">
