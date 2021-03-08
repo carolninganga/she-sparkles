@@ -17,7 +17,7 @@ class Navbar extends Component {
                         <div className="container">
                             <a href="/" className="brand-logo" id="logo">She Sparkles</a>
                             <a href="/" className="sidenav-trigger" data-target="mobile-links">
-                                <i className="material-icons">menu</i>
+                                <i className="material-icons">Menu</i>
                             </a>
                             <ul className="right hide-on-med-and-down">
                                 <li className="myNav"><Link to="/">Home</Link></li>
