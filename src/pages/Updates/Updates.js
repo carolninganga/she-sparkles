@@ -14,8 +14,8 @@ class Updates extends Component {
 
                <Project 
                 img="https://cdn.glitch.com/0cc91850-cd5e-4827-a102-0ddee1243509%2Fpolice.jpeg?v=1600473203128"
-                name="Arrest Data Visualization"
-                description="Display Every Arrest by the NYPD This Year"
+                name="Tanyada Ning'ang'a Kaponda"
+                description="Founder and author of She Sparkles"
                 github="https://github.com/PhoebeYahengWu/arrest-data-visualization"
                 site="https://visualization-on-nyc-arrest-data.netlify.app/" 
                 />
@@ -36,7 +36,9 @@ class Updates extends Component {
                 site="https://polar-castle-87426.herokuapp.com/" 
                 />
                 </div>
-                <div class="row pb-0 mb-0">
+
+
+                {/* <div class="row pb-0 mb-0">
                 <Project 
                 img="https://cdn.glitch.com/2e860639-24bb-4041-8055-aed7de1c1244%2Fimg-project1.jpeg?v=1584760380680"
                 name="Quiz App"
@@ -115,7 +117,7 @@ class Updates extends Component {
                 github="https://github.com/PhoebeYahengWu/coffee-nearby-app"
                 site="https://joli-moliere-06904.herokuapp.com/" 
                 />
-                </div>
+                </div> */}
 
 
                 </div>

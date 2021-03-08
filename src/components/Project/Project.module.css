@@ -13,7 +13,7 @@
 a:hover {
   text-decoration: none;
   outline: none;
-  color: #fff;
+  color: rgb(203, 82, 228);
 }
 
 .cardtitle {
@@ -48,13 +48,19 @@ a:hover {
 transform: translate(0px, 2px);
 letter-spacing: 0.1em; 
 border-radius: 40px;
-background: var(--gradient-color);
+/* background: var(--gradient-color linear-gradient( 90deg, rgb(191 88 255 / 80%), rgb(112 27 144 / 80%))); */
+
 }
 
 #learnMoreBtn {
-    background: var(--gradient-color);
+    /* background: var(--gradient-color); */
+    background-color: rgb(168, 94, 218) !important;
+    margin-left: 60%;
+    align-items: center;
+
 }
 #learnMoreBtn:focus {
     outline: none !important;
     box-shadow: none !important;
 }
+
