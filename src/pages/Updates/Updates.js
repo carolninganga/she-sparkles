@@ -13,11 +13,10 @@ class Updates extends Component {
             <div class="row pb-0 mb-0">
 
                <Project 
-                img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%208.36.13%20PM.png?v=1615167400374"
-                name="Tanyada Kaponda"
+                img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%208.47.13%20PM.png?v=1615168061891"
+                name="Tanya Kaponda"
                 description="Founder | Author"
-                github="https://github.com/PhoebeYahengWu/arrest-data-visualization"
-                site="https://visualization-on-nyc-arrest-data.netlify.app/" 
+                github="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Ftanyas%20profile.pdf?v=1615174407538"
                 />
 
                 <Project 
@@ -29,25 +28,25 @@ class Updates extends Component {
                 />
 
                 <Project 
-                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F1.webp?v=1595728173670"
+                img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%208.49.15%20PM.png?v=1615168202102"
                 name="Helga Ning'ang'a"
                 description="Founder Grace Givers" 
-                github="https://github.com/PhoebeYahengWu/foodie"
+                github="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Fhelgas%20profile.pdf?v=1615173853928"
                 site="https://polar-castle-87426.herokuapp.com/" 
                 />
                 </div>
 
-
-                {/* <div class="row pb-0 mb-0">
+ 
+                <div class="row pb-0 mb-0">
                 <Project 
-                img="https://cdn.glitch.com/2e860639-24bb-4041-8055-aed7de1c1244%2Fimg-project1.jpeg?v=1584760380680"
+                img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%209.04.34%20PM.png?v=1615169096677"
                 name="Quiz App"
                 description="A Quiz Contains 8 Multiple Choice Questions"
                 github="https://github.com/PhoebeYahengWu/JS-Quiz-App"
                 site="https://phoebeyahengwu.github.io/JS-Quiz-App/" 
                 />
 
-                <Project 
+                {/* <Project 
                 img="https://cdn.glitch.com/2e860639-24bb-4041-8055-aed7de1c1244%2Fimg-project2.jpeg?v=1581869386824"
                 name="Weather App"
                 description="Provide Current and Next 5 Day's Weather"
@@ -61,63 +60,12 @@ class Updates extends Component {
                 description="Create User Interface for MySQL Database"
                 github="https://github.com/PhoebeYahengWu/Company-Database-UI"
                 site="https://database-user-interface.herokuapp.com/" 
-                />
+                /> */}
 
 
                 </div>
 
-                <div class="row pb-0 mb-0">
-                <Project 
-                img="https://cdn.glitch.com/0767e857-f6a4-4140-abf7-e98c33465c4c%2Fback-img9.jpeg?v=1586475851196"
-                name="Stock Comparison"
-                description="Visualize Stock Price Based on Input Tickers"
-                github="https://github.com/PhoebeYahengWu/FinancialDashboard"
-                site="https://phoebeyahengwu.github.io/FinancialDashboard/" 
-                />
-
-                <Project 
-                img="https://cdn.glitch.com/2e860639-24bb-4041-8055-aed7de1c1244%2FNewYorkTimes2.jpg?v=1583955630273"
-                name="The New York Times"
-                description="Retrieve Top 10 articles Based on Keywords"
-                github="https://github.com/PhoebeYahengWu/New-York-Times-Article-Search-AJAX"
-                site="https://phoebeyahengwu.github.io/New-York-Times-Article-Search-AJAX/" 
-                />
-
-                <Project 
-                img="https://cdn.glitch.com/2e860639-24bb-4041-8055-aed7de1c1244%2Fproject-4.jpg?v=1585088113836"
-                name="React GitHub Finder"
-                description="Enter Username to Bring Back GitHub Profile"
-                github="https://github.com/PhoebeYahengWu/react-github-finder"
-                site="https://react-github-profile-finder.herokuapp.com/" 
-                />
-
-                </div>
-
-                <div class="row pb-0 mb-0">
-                <Project 
-                img="https://cdn.glitch.com/0818f487-5b8b-4080-900d-ad787673d146%2FportfolioImg.jpg?v=1591420769410"
-                name="Real-Time Poll"
-                description="Display poll result with Pusher and CanvasJS"
-                github="https://github.com/PhoebeYahengWu/real-time-poll-app"
-                site="https://real-time-poll-app.herokuapp.com/" 
-                />
-
-                <Project 
-                img="https://cdn.glitch.com/0818f487-5b8b-4080-900d-ad787673d146%2FportfolioImg2.jpg?v=1591592009590"
-                name="Real-Time Chat Room"
-                description="Enter any room with friends and start chat"
-                github="https://github.com/PhoebeYahengWu/real-time-chat-room"
-                site="https://real-time-truth-chat-room.herokuapp.com/" 
-                />
-
-                <Project 
-                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F3.webp?v=1595653108037"
-                name="Search Yelp"
-                description="Created using React and yelp API"
-                github="https://github.com/PhoebeYahengWu/coffee-nearby-app"
-                site="https://joli-moliere-06904.herokuapp.com/" 
-                />
-                </div> */}
+                 
 
 
                 </div>
