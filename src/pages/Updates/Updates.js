@@ -20,7 +20,7 @@ class Updates extends Component {
                 />
 
                 <Project 
-                img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%208.29.54%20PM.png?v=1615167037212"
+                img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-08%20at%202.51.25%20AM.png?v=1615189950160"
                 name="Ekari Makunganya"
                 description="WARI Designer"
                 github="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Fekari.pdf?v=1615176522258"
@@ -31,7 +31,6 @@ class Updates extends Component {
                 name="Helga Ning'ang'a"
                 description="Founder Grace Givers" 
                 github="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Fhelgas%20profile.pdf?v=1615173853928"
-                site="https://polar-castle-87426.herokuapp.com/" 
                 />
                 </div>
 

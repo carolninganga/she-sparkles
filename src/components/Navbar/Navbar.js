@@ -21,9 +21,9 @@ class Navbar extends Component {
                             </a>
                             <ul className="right hide-on-med-and-down">
                                 <li className="myNav"><Link to="/">Home</Link></li>
-                                <li className="myNav"><Link to="/updates">Updates</Link></li>
+                                <li className="myNav"><Link to="/updates">Profiles</Link></li>
                                 {/* <li className="myNav"><Link to="/resume">Resume</Link></li>  */}
-                                <li className="myNav"><Link to="/blog">Blog</Link></li> 
+                                {/* <li className="myNav"><Link to="/blog">Blog</Link></li>  */}
                             </ul>
                         </div>
                     </nav>
@@ -31,9 +31,9 @@ class Navbar extends Component {
 
                     <ul className="sidenav" id="mobile-links"> 
                         <li><Link to="/">Home</Link></li>
-                        <li><Link to="/updates">Updates</Link></li>
-                        <li><Link to="/resume">Resume</Link></li> 
-                        <li><Link to="/blog">Blog</Link></li> 
+                        <li><Link to="/updates">Profiles</Link></li>
+                        {/* <li><Link to="/resume">Resume</Link></li>  */}
+                        {/* <li><Link to="/blog">Blog</Link></li>  */}
                     
                     </ul>
             </div>
