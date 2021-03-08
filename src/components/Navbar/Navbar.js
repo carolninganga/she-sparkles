@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import { Link } from "react-router-dom";
 import M from "materialize-css/dist/js/materialize.min.js";
 import './style.css'
-
 class Navbar extends Component {
 
     componentDidMount() {

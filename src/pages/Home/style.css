@@ -68,7 +68,7 @@
 
 
 /* banner text */
-  .banner-text {
+  /* .banner-text {
     border-left: 5px solid #d54dff;
     padding: 15px 15px;
     color: #ffffff;
@@ -76,6 +76,9 @@
     position: fixed;
     top: 15%;
     left: 5%;
+  } */
+  .mission {
+    color: blueviolet;
   }
 
   .banner-text h3 {
@@ -115,6 +118,7 @@
 
 #resume {
 background-color: rgba(158, 43, 158, 0.705);
+/* margin-top: 380px; */
 }
 
 
@@ -133,5 +137,23 @@ display: none;
 }
 
 #mission {
-  color: #7222b4;
+  color: #b944e7;
+  /* margin-top: 2px; */
+}
+
+#logo {
+  position: relative;
+  margin-bottom: 50%;
+}
+
+.main-logo {
+  /* margin-top: 60px; */
+  width: 150px;
+
+}
+@media (max-width: 600px) {
+  .main-logo {
+    width: 75px;
+    float: left;
+  }
 }

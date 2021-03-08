@@ -23,8 +23,7 @@ class Updates extends Component {
                 img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%208.29.54%20PM.png?v=1615167037212"
                 name="Ekari Makunganya"
                 description="WARI Designer"
-                github="https://github.com/PhoebeYahengWu/beamifi-chat-app"
-                site="https://beamifi-app.herokuapp.com/login" 
+                github="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Fekari.pdf?v=1615176522258"
                 />
 
                 <Project 
@@ -40,10 +39,9 @@ class Updates extends Component {
                 <div class="row pb-0 mb-0">
                 <Project 
                 img="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FScreen%20Shot%202021-03-07%20at%209.04.34%20PM.png?v=1615169096677"
-                name="Quiz App"
-                description="A Quiz Contains 8 Multiple Choice Questions"
-                github="https://github.com/PhoebeYahengWu/JS-Quiz-App"
-                site="https://phoebeyahengwu.github.io/JS-Quiz-App/" 
+                name="Ladies of Influence"
+                description="Kulukaya Sadiki "
+                github="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Fk'sprofile.pdf?v=1615183410804"
                 />
 
                 {/* <Project 
